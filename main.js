@@ -47,7 +47,7 @@ function imc() {
     resultado.innerHTML += '<h3>Você está em obesidade mórbida, recomendamos que procure um nutricionista o mais rápido possível, seu caso está gravíssimo!</h3>' 
     resultado.classList.add('class-js-red') 
   } else if (soma > 200 && altura !== 0 && peso !== 0) {
-    resultado.innerHTML += '<h3>Seu IMC está alto além do normal, verifique se você digitou as informações corretamente. Separe as casas decimais por ponto, ex: Altura (1.67)<</h3>' 
+    resultado.innerHTML += '<h3>Seu IMC está alto além do normal, verifique se você digitou as informações corretamente. Separe as casas decimais por ponto, ex: Altura (1.67)</h3>' 
     resultado.classList.add('class-js-red') 
   } else if (soma < 5 && altura !== 0 && peso !== 0) {
     resultado.innerHTML += '<h3>Verifique se você digitou as informações corretamente. Separe as casas decimais por ponto, ex: Altura (1.67)</h3>' 
@@ -65,7 +65,7 @@ function limpar() {
   resultado.classList.remove('class-js-yellow')
 }
 
-// remove todas as classes ao clicar em novamente em limpar
+// remove todas as classes ao clicar novamente em limpar
 function removeClasses() {
   if (resultado.classList.contains = 'class-js-green') {
     resultado.classList.remove('class-js-yellow')
