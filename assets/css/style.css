@@ -1,6 +1,7 @@
 body {
   margin: 0;
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  background-color: #f0f2f5;
 }
 
 h1 {
@@ -18,6 +19,7 @@ h2 {
   max-width: 600px;
   border: 1px solid #ccc;
   border-radius: 10px;
+  background-color: #fff;
 }
 
 .container p {
@@ -148,7 +150,6 @@ footer p {
     display: block;
     margin: 0;
   }
-
 
   .resultado {
     padding: 10px;
