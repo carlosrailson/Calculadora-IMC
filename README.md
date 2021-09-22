@@ -1,6 +1,6 @@
 # Projeto Calculadora IMC
 
-![Screenshot 2021-08-24 at 10-44-26 Calculadora IMC](https://user-images.githubusercontent.com/85134349/130627774-cc051f43-2d6a-4bad-a394-3fa33b83a3f1.png)
+![Screenshot 2021-09-21 at 18-09-25 Calculadora IMC](https://user-images.githubusercontent.com/85134349/134377900-70b30b9c-7072-4e08-9b6b-000fdea88d2e.png)
 
 ## Em Desenvolvimento ⚠️
 
