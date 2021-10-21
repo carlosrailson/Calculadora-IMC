@@ -15,3 +15,6 @@
 - HTML
 - CSS
 - JavaScript
+
+#### Veja funcionando:
+- https://carlosrailson.github.io/calculadoraimc.html
